@@ -1,0 +1,6 @@
+{"username":"Ed", "date":"07/07/1997", "post":"Buttered Toast."}
+{"username":"Edd", "date":"07/08/1997", "post":"It's a CHICKEN!!!"}
+{"username":"Eddy", "date":"07/09/1997", "post":"BBBBBLLLLLLAAAAAHHHHH!"}
+{"date":"21.06.2016 at 07:18:27","post":" I'm a cucumber","username":"Ed"}
+{"date":"06\/21\/2016 at 07:36","post":"test post","username":"Eddy"}
+{"date":"06\/21\/2016 at 07:38","post":"als;kdhfoasvnaweifjsiahgo;askfgn;saiehfidnv","username":"Ed"}
